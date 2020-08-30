@@ -1,2 +1,2 @@
-# cirQ
+# CirQ
 CirQ Examples
