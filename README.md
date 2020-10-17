@@ -1,2 +1,1 @@
-# CirQ
-CirQ Examples
+# Quantum Languages Examples
